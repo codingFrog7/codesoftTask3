@@ -1,4 +1,6 @@
 const display = document.getElementById('display');
+const click= addEventListener()
+console.log(click);
 function addtodp(input) {
    display.value += input;
    
