@@ -1,1 +1,40 @@
-!
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styly.css" />
+  </head>
+  <body>
+    <div id="main">
+      <div id="header">
+        <span >Simple Calculator task3</span>
+        <h6>By : CodingFrog7 #CodeSoft</h6>
+      </div>
+      <div class="calculator">
+        <input id="display" class="display" readonly />
+        
+        <div class="buttons">
+          <button onclick="addtodp('1')">1</button>
+          <button onclick="addtodp('2')">2</button>
+          <button onclick="addtodp('3')">3</button>
+          <button onclick="addtodp('+')">+</button>
+          <button onclick="addtodp('4')">4</button>
+          <button onclick="addtodp('5')">5</button>
+          <button onclick="addtodp('6')">6</button>
+          <button onclick="addtodp('-')">-</button>
+          <button onclick="addtodp('7')">7</button>
+          <button onclick="addtodp('8')">8</button>
+          <button onclick="addtodp('9')">9</button>
+          <button onclick="addtodp('*')">*</button>
+          <button class="bg-red" onclick="clrdp()">C</button>
+          <button onclick="addtodp('0')">0</button>
+          <button class="bg-green" onclick="eql()">=</button>
+          <button onclick="addtodp('/')">/</button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
