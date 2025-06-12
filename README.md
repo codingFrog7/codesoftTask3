@@ -6,7 +6,7 @@ A sleek and responsive calculator built using **HTML**, **CSS**, and **JavaScrip
 
 ## 🌐 Live Demo
 
-[🚀 View Live Calculator](https://yourusername.github.io/calculator/)
+[🚀 View Live Calculator](https://codingfrog7.github.io/codesoftTask3/)
 
 ---
 
