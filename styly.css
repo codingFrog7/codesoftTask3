@@ -12,9 +12,9 @@
 }
 
 body {
-  background-image: url(ss/bg.jpg);
-  background-size:120%;
-  background-position:top center;
+  background-image: url(ss/bg.png);
+  background-size: 120%;
+  background-position: top center;
   background-repeat: no-repeat;
   color: #202124;
   line-height: 1.6;
@@ -29,7 +29,6 @@ body {
   justify-content: center;
   flex-direction: column;
   padding: 20px;
- 
 }
 
 #header {
@@ -142,11 +141,18 @@ button:active {
   #main {
     padding: 10px;
   }
-  
+
   #header {
     padding: 10px;
     margin-bottom: 15px;
     margin-left: 0px;
+  }
+
+  body {
+    background-image: url(ss/bg2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
 }
 
