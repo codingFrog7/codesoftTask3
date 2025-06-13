@@ -39,7 +39,7 @@ This calculator uses a **Google-style UI theme**, inspired by Material Design:
 
 ## 📷 Screenshots
 
-![Calculator Screenshot](ss/Calculator.png)
+![Calculator Screenshot](ss/Calculator)
 
 
 
